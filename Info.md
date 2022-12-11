@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandanchandru
 - 👀 I’m interested in Technology 
-- 🌱 I’m currently learning Google Cloud Foundations
+- 🌱 Currently I am a student Mentir at University of Mysore for Google Cloud Computing Foundation Program
 -
 
 <!---
